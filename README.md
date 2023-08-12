@@ -18,11 +18,12 @@
 <img width="50" height="50" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
 </p>     
 
-## Contatos:
-
+<h2>Contatos:</h2>
 <div>
 <a href="https://www.linkedin.com/in/ruth-santana-182399241" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+<h2>Estatísticas GitHub:</h2>
 
 <div>
 <a href="https://github.com/ruthsantanasilva">
