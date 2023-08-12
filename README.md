@@ -12,6 +12,9 @@
 <p float="left">
 <img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
 <img width="50" height="50" src="https://img.icons8.com/nolan/64/bootstrap.png" alt="bootstrap"/>
+<img width="50" height="50" src="https://img.icons8.com/officel/16/react.png" alt="react"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/angularjs.png" alt="angularjs"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 <img width="50" height="50" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
 </p>          
           
