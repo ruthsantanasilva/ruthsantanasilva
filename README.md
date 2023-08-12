@@ -1,4 +1,4 @@
-- 👋 Oi eu sou a Ruth!
+<h1>👋 Oi eu sou a Ruth!</h1>
 
 <h2>Ferramentas e Tecnologias:</h2>
 <p float="left">
