@@ -16,7 +16,13 @@
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/angularjs.png" alt="angularjs"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 <img width="50" height="50" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
-</p>          
+</p>     
+
+## Contatos:
+
+<div>
+<a href="https://www.linkedin.com/in/ruth-santana-182399241" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
           
  
 <!---
