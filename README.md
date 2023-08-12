@@ -1,5 +1,10 @@
 - 👋 Oi eu sou a Ruth!
-
+  
+  <style>
+            img{
+                      display:inline-block;}
+  </style>
+  
 <h2>Ferramentas e Tecnologias:</h2>
 <img  width ="60"  height="60" src="https://img.icons8.com/color/48/html-5--v1.png"  alt ="html-5--v1" /><img width="60" height="60" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/><img width="60" height="60" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/><img width="60" height="60" src="https://img.icons8.com/color/48/visual-studio--v1.png" alt="visual-studio--v1"/>
 
