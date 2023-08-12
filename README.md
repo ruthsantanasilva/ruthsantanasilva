@@ -1,11 +1,10 @@
 - 👋 Oi eu sou a @ruthsantanasilva!
 
 <h2>Ferramentas e Tecnologias:</h2>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="60" width="60" />
+< img  width = " 48 "  height = " 48 "  src = " https://img.icons8.com/color/48/html-5--v1.png "  alt = " html-5--v1 " />
           
           
-          <a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons">Html 5 icons created by Freepik - Flaticon</a>
+ 
           
           
           
