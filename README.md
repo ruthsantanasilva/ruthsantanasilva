@@ -5,6 +5,7 @@
 <img  width ="50"  height="50" src="https://img.icons8.com/color/48/html-5--v1.png"  alt ="html-5--v1" />
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio--v1.png" alt="visual-studio--v1"/>
 </p>
 
